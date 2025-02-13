@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Both ",
+    "Projects": [
+      {
+        "Path": "Reader\\Reader.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Writer\\Writer.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
