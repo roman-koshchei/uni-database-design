@@ -78,7 +78,6 @@ flushdb async
 
 Key used: `fields`
 
-?
 
 ```bash
 select 1
