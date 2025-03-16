@@ -1,0 +1,12 @@
+[
+  {
+    "_id": "CAT001",
+    "name": "Chronic Disease Prediction",
+    "description": "Algorithms for predicting chronic diseases."
+  },
+  {
+    "_id": "CAT002",
+    "name": "Cardiovascular Health",
+    "description": "Algorithms related to heart disease detection and management."
+  }
+]
